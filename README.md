@@ -2,6 +2,8 @@
 
 Find and sort the US states weather stations from least to greatest difference between the precipitation of the highest highest average month and the lowest average month.
 
+**Note:** Actual weather year data files have been truncated due to their large file sizes
+
 ## To Run Program:
 ```./run.sh <locations directory> <recordings directory> <output directory>```
 
